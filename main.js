@@ -4,3 +4,6 @@ function web(){
 function games(){
     window.location="Games.html"
 }
+function code(){
+    window.location="code.html"
+}
